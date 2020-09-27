@@ -1,0 +1,88 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "Yapto Yusuf Rudiatin",
+          "alamat": "Jakarta",
+          "umur": 27,
+          "noHp": "082312312423"
+        },
+        {
+        "id": 2,
+          "nama": "Aji",
+          "alamat": "Solo",
+          "umur": 26,
+          "noHp": "082241412314"
+        },
+        {
+          "id": 3,
+          "nama": "Radi",
+          "alamat": "Bogor",
+          "umur": 20,
+          "noHp": "082312312439"
+        },
+        {
+          "id": 4,
+          "nama": "Putra",
+          "alamat": "Bekasi",
+          "umur": 21,
+          "noHp": "082312323212"
+        },
+        {
+          "id": 5,
+          "nama": "Putri",
+          "alamat": "Bandung",
+          "umur": 28,
+          "noHp": "082312983388"
+        },
+        {
+          "id": 6,
+          "nama": "Nita",
+          "alamat": "Bali",
+          "umur": 24,
+          "noHp": "08231123412"
+        },
+        {
+          "id": 7,
+          "nama": "Budi",
+          "alamat": "Padeglang",
+          "umur": 22,
+          "noHp": "08231231349"
+        },
+        {
+          "id": 8,
+          "nama": "Sujai",
+          "alamat": "Cimahi",
+          "umur": 18,
+          "noHp": "082313212439"
+        },
+        {
+          "id": 9,
+          "nama": "Roy",
+          "alamat": "Bogor",
+          "umur": 19,
+          "noHp": "082312213439"
+        },
+        {
+          "id": 10,
+          "nama": "Suzi",
+          "alamat": "Bogor",
+          "umur": 39,
+          "noHp": "082563435539"
+        },
+        {
+          "id": 11,
+          "nama": "Ikhsan",
+          "alamat": "Padang",
+          "umur": 20,
+          "noHp": "082312423439"
+        },
+        {
+          "id": 12,
+          "nama": "Yusuf",
+          "alamat": "Banjar",
+          "umur": 29,
+          "noHp": "082323122439"
+        }
+      ]
+}
